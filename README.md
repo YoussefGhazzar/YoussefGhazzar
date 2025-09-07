@@ -25,5 +25,7 @@ Laravel, Vue.js, TailwindCSS, Inertia.js, JavaFX, Node.js
 Tools & Platforms:
 Git, VS Code, Figma, MySQL Workbench, Command Line, GitHub
 
-📫 Let's Connect!
-Feel free to explore my repositories and reach out if you'd like to collaborate or share ideas. I'm always open to building something exciting together!
+ 📫 Let's Connect
+🌐 Portfolio: https://my-portfolio-6u68502zo-youssefghazzar15-4115s-projects.vercel.app
+📧 Email: youssefghazzar15@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/youssef-ghazzar-92263a316/
