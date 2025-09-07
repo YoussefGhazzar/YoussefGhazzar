@@ -26,6 +26,7 @@ Tools & Platforms:
 Git, VS Code, Figma, MySQL Workbench, Command Line, GitHub
 
  📫 Let's Connect
+ 
 🌐 Portfolio: https://my-portfolio-6u68502zo-youssefghazzar15-4115s-projects.vercel.app
 
 📧 Email: youssefghazzar15@gmail.com
